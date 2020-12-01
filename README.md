@@ -1,4 +1,4 @@
-Let me introduce myself. My full name is **Ferdian Ifkarsyah**. You can call me **Ferdi** for short. 
+My name is **Ferdian Ifkarsyah**. You can call me **Ferdi** for short. 
 Although, I almost always use my surname(**Ifkarsyah**) because I think there's already too much Ferdi on the web 😓😁.
 
 
