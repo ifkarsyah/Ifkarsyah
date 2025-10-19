@@ -16,6 +16,6 @@ Find me:
 
 ---
 
-### 📊 Gihub Stats
+<!--### 📊 Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=Ifkarsyah&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifkarsyah&amp;layout=compact" alt="Top Languages"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifkarsyah&amp;layout=compact" alt="Top Languages"></p> -->
