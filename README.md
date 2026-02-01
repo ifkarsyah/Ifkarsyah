@@ -1,10 +1,10 @@
-👋 Hey there! I'm Ferdian Ifkarsyah, a software engineer specializing in data infrastructure. My main programming languages are Python, Java, and Go.
+👋 Hey there! I'm Ferdian Ifkarsyah, a software engineer specializing in data infrastructure. 
 
 I've got solid experience with:
-
+- Programming Language: Python, Java, Scala, Go
 - Batch Pipelines: Spark and Airflow
-- Streaming Pipelines: Kafka and Flink
-- Query Engine: Trino, BigQuery
+- Streaming Pipelines: Spark Streaming, Flink, Kafka
+- Query Engine: Trino, BigQuery, ClickHouse
 
 I'm passionate about building robust and scalable data systems. If you're looking for someone who can contribute to your projects with expertise in these areas, let's collaborate and make amazing things happen together! 💪✨
 
